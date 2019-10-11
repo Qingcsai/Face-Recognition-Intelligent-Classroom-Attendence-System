@@ -1,2 +1,2 @@
 # Face-Recognition-Intelligent-Classroom-Attendence-System
-2018-2019年国创项目
+是本人2018-2019年国创项目，现已结题。
