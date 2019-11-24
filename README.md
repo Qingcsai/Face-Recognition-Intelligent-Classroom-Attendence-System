@@ -1,7 +1,6 @@
-# Face-Recognition-Intelligent-Classroom-Attendence-System
-基于非配合人脸识别的智能课堂考勤系统
-
+# Face-Recognition-Intelligent-Classroom-Attendence-System(基于非配合人脸识别的智能课堂考勤系统)
 本人2018-2019年国创项目，现已结题。
+
 ======
 
 # 进展
