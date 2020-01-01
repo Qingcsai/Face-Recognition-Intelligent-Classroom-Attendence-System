@@ -7,8 +7,11 @@
 * 目前路径为绝对路径，可能无法直接执行通过
 * Updating...
 
-# 平台
-tensorflow + win10 
+# Prerequest
+tensorflow + gpu
+
+# 算法
+facenet + mtcnn + SVM
 
 # 功能
 GUI界面 + 数据库操作
