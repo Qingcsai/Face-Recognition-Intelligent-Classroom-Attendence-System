@@ -1,17 +1,13 @@
 # Face-Recognition-Intelligent-Classroom-Attendence-System
 
-======
-
-
-
-# Prerequest
+## Prerequest
 tensorflow + gpu
 
-# Method
+## Method
 facenet + mtcnn + SVM
 
-# Function
+## Function
 GUI + database manipulation
 
-# Usage
+## Usage
 run ```./GUI/main.py```
